@@ -2,9 +2,9 @@
 
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
-        
-        
-        
+
+
+
         // Forma de declarar um valor decimal em Java
 
         double minimumWage = 2500;
