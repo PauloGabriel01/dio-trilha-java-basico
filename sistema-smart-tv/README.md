@@ -1,18 +1,5 @@
-## Getting Started
+## Exemplo simples de um sistema de Smart TV em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este exemplo simples foi desenvolvido com o objetivo de exercitar o aprendizado sobre os conceitos básicos de métodos em java. 
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+**Não foi levado em consideração o paradigma Orientado a Objetos**, tendo em vista que o objetivo do curso é apresentar a sintaxe da linguagem Java, curso esse desenvolvido pela _Digital Innovation One_.
